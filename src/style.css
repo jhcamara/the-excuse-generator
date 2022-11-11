@@ -1,1 +1,26 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background-color: grey;
+  color: white;
+}
+#excuse {
+  font-size: 40px;
+}
+
+.image {
+  width: 200px;
+}
+
+button {
+  margin: auto;
+  display: block;
+  border: 2px, white;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 8px;
+  text-decoration: none;
+  /* color: white; */
+}
